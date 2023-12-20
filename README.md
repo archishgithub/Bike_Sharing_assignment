@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# BoomBike Sharing Assignment
+> Use Multiple Linear regression to predict the demand of sharing bikes. 
 
 
 ## Table of Contents
