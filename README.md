@@ -31,13 +31,12 @@
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by Upgrad learning module
+
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@archishgithub] - feel free to contact me!
 
 
 <!-- Optional -->
